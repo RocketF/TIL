@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+07f16a976f17fd9247b8db2971f01aa2d2abc08f refs/heads/fluent-gm
+0d23feb85dc0afe9ff0853427312e7006eaf76c6 refs/heads/master
+ddb68b20c1dafd13ff5777146ee54d8d2162bb3b refs/heads/null-predicate-value
+a230d5e32c850c0d77e7484bdf518e4029e44efe refs/pull/1/head
+0a298d28716797a8fdf7aaded2204e0282e136b3 refs/pull/3/head
+32b285fce06da8f81f17e5f49636802c9b833617 refs/pull/3/merge
+4480899e8016bfb98f32abd7a2bbf58443f58aad refs/pull/5/head
+ddb68b20c1dafd13ff5777146ee54d8d2162bb3b refs/pull/6/head
+c63d0ffc51194f91c731cf05abe4cd6c27cee21c refs/pull/6/merge
+754c49e96ac97f2daf6ad729013a4265aff365d6 refs/pull/7/head
+07f16a976f17fd9247b8db2971f01aa2d2abc08f refs/pull/8/head
+1bfbebc064adab30cc7c9d2945e879b3ef59dbae refs/pull/8/merge
+1bb94271d8645b6d6983721080ad642aa35d749c refs/tags/1.0.0

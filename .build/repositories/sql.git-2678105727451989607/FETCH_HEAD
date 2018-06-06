@@ -1,0 +1,13 @@
+c7d458a7fbc9102b431988bb9b69c91025bdaf80	not-for-merge	branch 'fluent-gm' of https://github.com/vapor/sql
+0d23feb85dc0afe9ff0853427312e7006eaf76c6	not-for-merge	branch 'master' of https://github.com/vapor/sql
+ddb68b20c1dafd13ff5777146ee54d8d2162bb3b	not-for-merge	branch 'null-predicate-value' of https://github.com/vapor/sql
+a230d5e32c850c0d77e7484bdf518e4029e44efe	not-for-merge	'refs/pull/1/head' of https://github.com/vapor/sql
+0a298d28716797a8fdf7aaded2204e0282e136b3	not-for-merge	'refs/pull/3/head' of https://github.com/vapor/sql
+32b285fce06da8f81f17e5f49636802c9b833617	not-for-merge	'refs/pull/3/merge' of https://github.com/vapor/sql
+4480899e8016bfb98f32abd7a2bbf58443f58aad	not-for-merge	'refs/pull/5/head' of https://github.com/vapor/sql
+ddb68b20c1dafd13ff5777146ee54d8d2162bb3b	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/sql
+c63d0ffc51194f91c731cf05abe4cd6c27cee21c	not-for-merge	'refs/pull/6/merge' of https://github.com/vapor/sql
+754c49e96ac97f2daf6ad729013a4265aff365d6	not-for-merge	'refs/pull/7/head' of https://github.com/vapor/sql
+c7d458a7fbc9102b431988bb9b69c91025bdaf80	not-for-merge	'refs/pull/8/head' of https://github.com/vapor/sql
+2a47d515a98b24c2cdd968253cd52847ea88945c	not-for-merge	'refs/pull/8/merge' of https://github.com/vapor/sql
+1bb94271d8645b6d6983721080ad642aa35d749c	not-for-merge	tag '1.0.0' of https://github.com/vapor/sql
